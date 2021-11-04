@@ -1,2 +1,4 @@
-# learning-java
-☕️ Learning Java
+# Learning Java
+
+☕️ Learning Java for great good
+
